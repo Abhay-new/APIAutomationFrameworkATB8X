@@ -1,4 +1,4 @@
-package org.example.PayloadManagement.easyGsonWay;
+package com.testingAPI.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
